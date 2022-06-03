@@ -1,0 +1,15 @@
+D:\Elfak\VI [6]\PIAA\LabVezbe\Lab04\FH\bin\Debug\net6.0\FH.exe
+D:\Elfak\VI [6]\PIAA\LabVezbe\Lab04\FH\bin\Debug\net6.0\FH.deps.json
+D:\Elfak\VI [6]\PIAA\LabVezbe\Lab04\FH\bin\Debug\net6.0\FH.runtimeconfig.json
+D:\Elfak\VI [6]\PIAA\LabVezbe\Lab04\FH\bin\Debug\net6.0\FH.dll
+D:\Elfak\VI [6]\PIAA\LabVezbe\Lab04\FH\bin\Debug\net6.0\FH.pdb
+D:\Elfak\VI [6]\PIAA\LabVezbe\Lab04\FH\obj\Debug\net6.0\FH.csproj.AssemblyReference.cache
+D:\Elfak\VI [6]\PIAA\LabVezbe\Lab04\FH\obj\Debug\net6.0\FH.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elfak\VI [6]\PIAA\LabVezbe\Lab04\FH\obj\Debug\net6.0\FH.AssemblyInfoInputs.cache
+D:\Elfak\VI [6]\PIAA\LabVezbe\Lab04\FH\obj\Debug\net6.0\FH.AssemblyInfo.cs
+D:\Elfak\VI [6]\PIAA\LabVezbe\Lab04\FH\obj\Debug\net6.0\FH.csproj.CoreCompileInputs.cache
+D:\Elfak\VI [6]\PIAA\LabVezbe\Lab04\FH\obj\Debug\net6.0\FH.dll
+D:\Elfak\VI [6]\PIAA\LabVezbe\Lab04\FH\obj\Debug\net6.0\refint\FH.dll
+D:\Elfak\VI [6]\PIAA\LabVezbe\Lab04\FH\obj\Debug\net6.0\FH.pdb
+D:\Elfak\VI [6]\PIAA\LabVezbe\Lab04\FH\obj\Debug\net6.0\FH.genruntimeconfig.cache
+D:\Elfak\VI [6]\PIAA\LabVezbe\Lab04\FH\obj\Debug\net6.0\ref\FH.dll
